@@ -21,7 +21,7 @@ st.set_page_config(
 st.title("Video Tracking And Counting")
 
 # Sidebar
-st.sidebar.header("ML Model People Counter")
+st.sidebar.header("Machine Learning Model to Count People")
 
 
 
